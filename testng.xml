@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Register and Login into Portal"  configfailurepolicy="continue" preserve-order="true">
+
+    <test name="Portal : Register new user">
+        <classes>
+            <class name="test.java.register.RegisterTest"/>
+        </classes>
+    </test>
+</suite>
