@@ -1,0 +1,7 @@
+{
+  "firstName" : "firstname",
+  "lastName" : "lastname",
+  "password" : "Test@123456",
+  "confirmPassword" : "Test@123456",
+  "successMessage" : "Registration is successful"
+}

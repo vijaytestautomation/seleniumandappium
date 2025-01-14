@@ -1,0 +1,4 @@
+#Thu Jul 18 19:23:05 NZST 2024
+configuration*?=3729F1FAA6EEBE10E4C76AD648A10EAC906592D0
+module-resource*?\:checkstyle-suppressions.xml=C7BB110EDEDE95F2CE493FFB2980EE232045DADF
+module-resource*?\:checkstyle-xpath-suppressions.xml=D2BAA8ACDF808C6372CA84C74BD717C3C6BF6089
